@@ -1,0 +1,162 @@
+[
+            {
+                "type": "Office in downtown",
+                "e-mail": "",
+                "name": "Nazmul",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/KX3K2SJ/274177129-666579191161067-2519858385740403490-n.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Office in downtown",
+                "e-mail": "",
+                "name": "Zabad",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/MBBRYq6/20220623-123009.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Ample renovated office",
+                "e-mail": "",
+                "name": "Jerin",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/b3C5Knv/second.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Ample renovated office",
+                "e-mail": "",
+                "name": "Nazma",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/P90NxWy/first.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Modern office space",
+                "e-mail": "",
+                "name": "Nazmul",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/KX3K2SJ/274177129-666579191161067-2519858385740403490-n.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Modern office space",
+                "e-mail": "",
+                "name": "Zabad",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/MBBRYq6/20220623-123009.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Modern Apartment",
+                "e-mail": "",
+                "name": "Jerin",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/b3C5Knv/second.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Modern Apartment",
+                "e-mail": "",
+                "name": "Nazma",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/P90NxWy/first.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Complex Building Ocean Front",
+                "e-mail": "",
+                "name": "Nazmul",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/KX3K2SJ/274177129-666579191161067-2519858385740403490-n.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Complex Building Ocean Front",
+                "e-mail": "",
+                "name": "Zabad",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/MBBRYq6/20220623-123009.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Amazing oceanfront apartment",
+                "e-mail": "",
+                "name": "Jerin",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/b3C5Knv/second.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Amazing oceanfront apartment",
+                "e-mail": "",
+                "name": "Nazma",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/P90NxWy/first.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Confortable and ample apartment",
+                "e-mail": "",
+                "name": "Nazmul",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/KX3K2SJ/274177129-666579191161067-2519858385740403490-n.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Confortable and ample apartment",
+                "e-mail": "",
+                "name": "Zabad",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/MBBRYq6/20220623-123009.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Gorgeous in green house",
+                "e-mail": "",
+                "name": "Jerin",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/b3C5Knv/second.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Gorgeous in green house",
+                "e-mail": "",
+                "name": "Nazma",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/P90NxWy/first.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Amazing home for family",
+                "e-mail": "",
+                "name": "Nazmul",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/KX3K2SJ/274177129-666579191161067-2519858385740403490-n.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Amazing home for family",
+                "e-mail": "",
+                "name": "Zabad",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/MBBRYq6/20220623-123009.jpg",
+                "ratting": 5
+            },
+            {
+                "type": "Luxury home for Family",
+                "e-mail": "",
+                "name": "Jerin",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/b3C5Knv/second.jpg",
+                "ratting": 4
+            },
+            {
+                "type": "Luxury home for Family",
+                "e-mail": "",
+                "name": "Nazma",
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Pariatur, molestiae? Adipisci quae voluptatem ex ea debitis minima reiciendis dolorum dolores!",
+                "img": "https://i.ibb.co/P90NxWy/first.jpg",
+                "ratting": 5
+            }
+]
