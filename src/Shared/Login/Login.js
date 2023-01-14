@@ -27,7 +27,7 @@ const Login = () => {
                 const user = result.user;
                 // setLoginUserEmail(user?.email)
                 toast.success('Login Successsfully')
-                navigate(from, {replace: true})
+                navigate(from, { replace: true })
             })
             .catch(err => setLoginError(err.message))
     };
@@ -36,6 +36,8 @@ const Login = () => {
     return (
         <div className='flex justify-center items-center'>
             <div className='w-96 p-7'>
+                <h1>Email: <strong>nazmul@gmail.com</strong></h1>
+                <h1>Password: <strong>123456</strong></h1>
                 <h2 className='text-xl text-center'>Log In</h2>
                 <form onSubmit={handleSubmit(handleLogIn)}>
 
